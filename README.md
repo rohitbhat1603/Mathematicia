@@ -22,4 +22,4 @@ We provide students with all required study resources on a single platform, taki
 
 Also due to this ongoing COVID-19 pandemic, students are not able to go to libraries or access offline study materials, therefore this is a little initiative from our team to help students virtually. 
 
-# [Click here] (https://rohitbhat1603.github.io/Mathematicia/) to view our project
+# [https://rohitbhat1603.github.io/Mathematicia/] (Click here) to view our project
