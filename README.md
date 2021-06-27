@@ -21,5 +21,9 @@ To help students along their journey to a successful preparation with the right 
 We provide students with all required study resources on a single platform, taking into account the time restrictions that these boards impose.
 Also due to this ongoing COVID-19 pandemic, students are not able to go to libraries or access offline study materials, therefore this is a little initiative from our team to help students virtually. 
 
+# :maple_leaf: [Click here](Mathematicia(3).ppt) to view Presetation
+
 # :maple_leaf: [Click here](https://rohitbhat1603.github.io/Mathematicia/) to view our project
+
+
 
