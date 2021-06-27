@@ -1,25 +1,25 @@
-# Mathematicia
+# :beginner: ***Mathematicia***
 
-# TA – INVICTUS
-Team members:
-Rohit Bhat
-Harsh Niture
-Chinmay Chougule
-Meenal Garg
+## TA – INVICTUS ##
+Team members: <br/> 
 
-# Theme: Education 
+ * Rohit Bhat
+ * Harsh Niture
+ * Chinmay Chougule
+ * Meenal Garg
 
-# Project Description:-
+## Theme: Education ##
+
+### Project Description:- ###
 “Mathematics is not about numbers, equations, computations and algorithms; it is about understanding”
 
 This understanding is what our team INVICTUS provides through MATHEMATICIA.
 
 Youth are the nation's future, and the 10th and 12th grades are among the most crucial years of a student's life since these grades present a major challenge i.e. Boards.
-
 To help students along their journey to a successful preparation with the right intake of knowledge is what Mathematicia is developed to achieve. 
 
 We provide students with all required study resources on a single platform, taking into account the time restrictions that these boards impose.
-
 Also due to this ongoing COVID-19 pandemic, students are not able to go to libraries or access offline study materials, therefore this is a little initiative from our team to help students virtually. 
 
-# [Click here](https://rohitbhat1603.github.io/Mathematicia/) to view our project
+# :maple_leaf: [Click here](https://rohitbhat1603.github.io/Mathematicia/) to view our project
+
