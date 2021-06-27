@@ -1,4 +1,4 @@
-# :beginner: ***Mathematicia***
+# :beginner: ***Mathematicia*** :beginner:
 
 ## TA – INVICTUS ##
 Team members: <br/> 
